@@ -23,11 +23,9 @@
 </p>
 
 <h2 align="center">
-    ──「 DEPLOY ON HEROKU 」──
-</h2>
+ ##deploy
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/DARKAMAN6/YUKKI-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
+ [![𝙶𝙷𝙾𝚂𝚃 𝙼𝚄𝚂𝙸𝙲](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fdarkaman6%2FYUKKI-ROBOT)
 
 <h2 align="center">
     ──「 SUPPORT 」──
